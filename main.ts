@@ -1,4 +1,4 @@
-
+scene.setBackgroundColor(2)
 let food1 = "pizza "
 let food2 = "nachos "
 let food3 = "chili cheese fries "
